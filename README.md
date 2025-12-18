@@ -2,7 +2,7 @@
 
 sistema de pagamento com cartão de crédito para o dinabank, desenvolvido como projeto de estudos.
 
-![Dinabank](./screenshots/card-preview.png)
+![Dinabank Payment](./screenshots/cartao-preenchido.png)
 
 ## 🎯 sobre o projeto
 
