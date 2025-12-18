@@ -2,6 +2,10 @@
 
 sistema de pagamento com cartão de crédito para o dinabank, desenvolvido como projeto de estudos.
 
+<div align="center">
+  <img src="./public/dinacoin.png" alt="Dinacoin" width="200"/>
+</div>
+
 ---
 
 ## 🎯 sobre o projeto
