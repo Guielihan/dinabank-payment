@@ -1,0 +1,5 @@
+{
+  "name": "DinaBank Payment",
+  "description": "A responsive credit card payment form with real-time card visualization and calendar-based expiry selection.",
+  "requestFramePermissions": []
+}
