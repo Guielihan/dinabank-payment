@@ -2,8 +2,6 @@
 
 sistema de pagamento com cartão de crédito para o dinabank, desenvolvido como projeto de estudos.
 
-![Dinabank Payment](./public/dinacoin.png)
-
 ## 🎯 sobre o projeto
 
 aplicação web que simula um formulário de pagamento com cartão de crédito, incluindo validação em tempo real, animações de flip do cartão e detecção automática da bandeira do cartão.
@@ -55,7 +53,17 @@ npm run preview
 
 ## 📸 screenshots
 
-capturas de tela do projeto em funcionamento estão disponíveis na pasta [screenshots](./screenshots/).
+### cartão inicial
+![Cartão Vazio](./screenshots/cartao-vazio.png)
+
+### cartão preenchido
+![Cartão Preenchido](./screenshots/cartao-preenchido.png)
+
+### verso do cartão (cvv)
+![Animação Flip](./screenshots/animacao-do-flip.png)
+
+### confirmação de pagamento
+![Pagamento Confirmado](./screenshots/pagamento-confirmado.png)
 
 ## 📫 contato
 
